@@ -59,9 +59,27 @@ img {
     height: auto;
 }
 
+.illustrations-section {
+    text-align: center;
+    color: #e5e7eb;
+}
+
 .hero {
     font-size: 32px;
     font-weight: 900;
     color: #f9faf8;
     margin-right: 200px;
+}
+
+.illustrations-container {
+    display: flex;
+    justify-content: space-between;
+    padding-left: 280px;
+    padding-right: 280px;
+}
+
+
+.illustration {
+    width: 250px;
+    height: 250px;
 }
